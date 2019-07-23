@@ -1,1 +1,1 @@
-# Angular-sonando-2
+Dummy template
